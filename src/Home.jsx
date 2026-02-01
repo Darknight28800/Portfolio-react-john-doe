@@ -27,7 +27,7 @@ export default function Home() {
               <h2 className="mb-2 fw-bold">A propos</h2>
               <div className="blue-bar"></div>
               <img
-                src="/images/john-doe-about.jpg"
+                src="/public/images/john-doe-about.jpg"
                 className="img-fluid rounded mb-3"
                 alt="Portrait de John Doe"
               />
