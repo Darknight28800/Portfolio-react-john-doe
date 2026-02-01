@@ -45,7 +45,7 @@ serve -s dist
 
 🌐 Dépôt GitHub
 Le code source du projet est disponible ici :
-https://github.com/thrax28700/portfolio-react
+https://github.com/Darknight28800/Portfolio-react-john-doe.git
 
 
 
