@@ -78,7 +78,7 @@ export default function Footer() {
             <ul className="list-unstyled">
               <li>
                 <a
-                  href="https://www.fresh.fr/"
+                  href="https://www.freshfood.fr/"
                   className="footer-link text-white"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -88,12 +88,12 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://www.akiralille.com/"
+                  href="https://kyotori28.com/fr/"
                   className="footer-link text-white"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Restaurant Akira
+                  Restaurant Kyotori
                 </a>
               </li>
               <li>
@@ -108,7 +108,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://www.terredepastel.com/"
+                  href="https://loree-du-spa.com/"
                   className="footer-link text-white"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -128,7 +128,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://www.figma.com/fr-fr/"
+                  href="href="https://www.figma.com/proto/IuVMTOHAupiAfh1FKt04XA/Projet-Maquette-ProBeat?node-id=581-2036&t=LpdKvGdxhvccNR25-0&scaling=min-zoom&content-scaling=fixed&page-id=290%3A1132&starting-point-node-id=581%3A2827"
                   className="footer-link text-white"
                   target="_blank"
                   rel="noopener noreferrer"

@@ -17,7 +17,7 @@ export default function ModalGithub({ open, onClose }) {
 
         <div className="modal-body-github">
           <img
-            src="/images/doraemon.jpg"
+            src="../public/images/doraemon-cat.webp"
             className="github-avatar"
             alt="Avatar GitHub de John Doe"
           />

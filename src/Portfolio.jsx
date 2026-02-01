@@ -37,7 +37,7 @@ export default function Portfolio() {
                     Site de vente de produits frais en ligne
                   </p>
                   <a
-                    href="https://www.fresh.fr/"
+                    href="https://www.freshfood.fr/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn btn-primary btn-sm"
@@ -62,12 +62,12 @@ export default function Portfolio() {
                   alt="Capture du site Restaurant Akira"
                 />
                 <div className="card-body">
-                  <h2 className="card-title fw-bold">Restaurant Akira</h2>
+                  <h2 className="card-title fw-bold">Restaurant Kyotori</h2>
                   <p className="card-text">
                     Site vitrine pour un restaurant japonais
                   </p>
                   <a
-                    href="https://www.akiralille.com/"
+                    href="https://kyotori28.com/fr/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn btn-primary btn-sm"
@@ -97,7 +97,7 @@ export default function Portfolio() {
                     Site de réservation pour un espace détente
                   </p>
                   <a
-                    href="https://www.terredepastel.com/"
+                    href="https://loree-du-spa.com/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn btn-primary btn-sm"
@@ -124,7 +124,7 @@ export default function Portfolio() {
                 <div className="card-body">
                   <h2 className="card-title fw-bold">SEO</h2>
                   <p className="card-text">
-                    Amélioration du référencement d&apos;un site e-commerce
+                    Amélioration du référencement d'un site e-commerce
                   </p>
                   <a
                     href="https://www.seo.fr/"
@@ -153,10 +153,10 @@ export default function Portfolio() {
                 />
                 <div className="card-body">
                   <h2 className="card-title fw-bold">
-                    Création d&apos;une API
+                    Création d'une API
                   </h2>
                   <p className="card-text">
-                    Création d&apos;une API RESTFUL publique
+                    Création d'une API RESTFUL publique
                   </p>
                   <a
                     href="https://developer.microsoft.com/fr-fr/build-apis"
@@ -185,13 +185,13 @@ export default function Portfolio() {
                 />
                 <div className="card-body">
                   <h2 className="card-title fw-bold">
-                    Maquette d&apos;un site web
+                    Maquette d'un site web
                   </h2>
                   <p className="card-text">
-                    Création du prototype d&apos;un site
+                    Création du prototype d'un site
                   </p>
                   <a
-                    href="https://www.figma.com/fr-fr/"
+                    href="https://www.figma.com/proto/IuVMTOHAupiAfh1FKt04XA/Projet-Maquette-ProBeat?node-id=581-2036&t=LpdKvGdxhvccNR25-0&scaling=min-zoom&content-scaling=fixed&page-id=290%3A1132&starting-point-node-id=581%3A2827"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn btn-primary btn-sm"

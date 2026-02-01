@@ -22,8 +22,8 @@ export default function Services() {
               <img src="/icons/brush.png" alt="Icône UX Design" />
               <h2 className="fw-bold">UX Design</h2>
               <p>
-                L&apos;UX design est une discipline qui consiste à concevoir des
-                produits en plaçant l&apos;utilisateur au centre.
+                L'UX design est une discipline qui consiste à concevoir des
+                produits en plaçant l'utilisateur au centre.
               </p>
             </div>
           </div>
