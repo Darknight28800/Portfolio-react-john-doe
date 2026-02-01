@@ -43,7 +43,7 @@ export default function ModalGithub({ open, onClose }) {
 
             <div className="ligne-info">
               <img
-                src="/icons/carte-de-visite.png"
+                src="/public/icons/carte-de-visite.png"
                 alt="Icône carte de visite"
               />
               <span>
