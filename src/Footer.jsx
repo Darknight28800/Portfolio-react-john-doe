@@ -128,7 +128,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="href="https://www.figma.com/proto/IuVMTOHAupiAfh1FKt04XA/Projet-Maquette-ProBeat?node-id=581-2036&t=LpdKvGdxhvccNR25-0&scaling=min-zoom&content-scaling=fixed&page-id=290%3A1132&starting-point-node-id=581%3A2827"
+                  href="https://www.figma.com"
                   className="footer-link text-white"
                   target="_blank"
                   rel="noopener noreferrer"

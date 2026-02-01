@@ -50,7 +50,7 @@ export default function Home() {
               <div className="blue-bar"></div>
 
               <div className="mb-3">
-                <label className="mb-1">HTML5 90%</label>
+                <label className="mb-1">HTML 90%</label>
                 <div className="progress">
                   <div
                     className="progress-bar"
@@ -60,7 +60,7 @@ export default function Home() {
               </div>
 
               <div className="mb-3">
-                <label className="mb-1">CSS3 80%</label>
+                <label className="mb-1">CSS 80%</label>
                 <div className="progress">
                   <div
                     className="progress-bar"
@@ -70,21 +70,21 @@ export default function Home() {
               </div>
 
               <div className="mb-3">
-                <label className="mb-1">JavaScript 70%</label>
+                <label className="mb-1">JavaScript 40%</label>
                 <div className="progress">
                   <div
                     className="progress-bar"
-                    style={{ width: "70%", background: "#f1c40f" }}
+                    style={{ width: "40%", background: "#f1c40f" }}
                   ></div>
                 </div>
               </div>
 
               <div className="mb-3">
-                <label className="mb-1">PHP 60%</label>
+                <label className="mb-1">PHP 40%</label>
                 <div className="progress">
                   <div
                     className="progress-bar"
-                    style={{ width: "60%", background: "#145a32" }}
+                    style={{ width: "40%", background: "#145a32" }}
                   ></div>
                 </div>
               </div>

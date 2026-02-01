@@ -13,7 +13,7 @@
     - React
     - Vite
     - JavaScript
-    - HTML5 / CSS3
+    - HTML / CSS
     - Bootstrap 5
     - Git & GitHub
 
