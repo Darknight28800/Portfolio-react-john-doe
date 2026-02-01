@@ -47,7 +47,7 @@ export default function ModalGithub({ open, onClose }) {
                 alt="Icône carte de visite"
               />
               <span>
-                As we all know, John Doe&apos;s identity is unknown. I just
+                As we all know, John Doe's identity is unknown. I just
                 wanted to contribute without being known.
               </span>
             </div>
