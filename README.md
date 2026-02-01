@@ -50,6 +50,6 @@ https://github.com/Darknight28800/Portfolio-react-john-doe.git
 
 
 👤 Réalisation
-Projet développé par Renaud Vaillant.
+Projet développé par David ANTOINA.
 Portfolio test pour John DOE.
 
