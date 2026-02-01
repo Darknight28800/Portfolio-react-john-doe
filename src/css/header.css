@@ -1,0 +1,11 @@
+.navbar {
+  z-index: 2000;
+}
+
+.nav-link.active {
+  font-weight: 700;
+  color: #fff !important;
+  text-decoration: underline;
+  text-decoration-color: #fff;
+  text-underline-offset: 4px;
+}

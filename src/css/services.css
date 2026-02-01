@@ -1,0 +1,41 @@
+.banner-img {
+  display: block;
+  width: 100%;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.blue-bar {
+  width: 100%;
+  height: 4px;
+  background: #0d6efd;
+  margin-bottom: 20px;
+}
+
+.services-bar {
+  width: 500px;
+  height: 6px;
+  background: #0d6efd;
+  margin: 0 auto 40px auto;
+  border-radius: 3px;
+}
+
+.services-card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.services-card img {
+  width: 48px;
+  height: 48px;
+  opacity: 0.8;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto 15px auto;
+}
+
+.row.g-4 {
+  margin-bottom: 60px;
+}

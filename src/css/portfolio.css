@@ -1,0 +1,8 @@
+.portfolio-card img {
+  object-fit: cover;
+  height: 240px;
+}
+
+.portfolio-card .card-body {
+  padding-bottom: 0;
+}

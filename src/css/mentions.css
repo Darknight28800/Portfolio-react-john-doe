@@ -1,0 +1,29 @@
+.page-mentions-titre {
+  text-align: center;
+  font-weight: 700;
+  font-size: 42px;
+  margin-top: 80px;
+}
+
+.accordion-button:not(.collapsed) {
+  background: #bde0ff;
+  color: #000;
+}
+
+.icone-ligne {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.icone-ligne img {
+  width: 26px;
+  height: 26px;
+}
+
+.lien-bleu {
+  color: #0d6efd;
+  text-decoration: underline;
+  font-weight: 600;
+}

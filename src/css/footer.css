@@ -1,0 +1,26 @@
+footer .footer-icon i {
+  color: #6c757d !important;
+  transition: 0.3s;
+}
+
+footer .footer-icon i:hover {
+  color: #ffffff !important;
+}
+
+footer .footer-link {
+  text-decoration: none;
+}
+
+footer .footer-link:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 991px) {
+  footer .col-md-4 {
+    text-align: left !important;
+  }
+
+  footer .d-flex {
+    justify-content: flex-start !important;
+  }
+}
